@@ -1,5 +1,7 @@
 171248, Vladimir, Stojcheski
 161050, Viktor, Mitreski
 172101, Goran, Grozdanoski
-151002, Dimitar, Mladenoski
+122222, Dimitar, Mladenoski
 111111, Ana, Boshkoska
+123456, Vasil, Vasilovski
+555555, Petar, Trajcheski
